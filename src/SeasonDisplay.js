@@ -3,20 +3,20 @@ import React from 'react';
 
 const seasonConfig = {
   summer: {
-    text: "Let's hit the beach!",
+    text: '"A life without love is like a year without summer" -Swedish Proverb',
     iconName: "sun"
   },
   winter: {
-    text: "Burr, it's chilly!",
+    text: '"To appreciate the beauty of a snowflake it is necessary to stand out in the cold." - Aristotle',
     iconName: "snowflake"
   },
   spring: {
     text: '"Blossom by blossom the spring begins." -Algernon Charles Swinburne',
-    iconName: "flower"
+    iconName: "bug"
   },
   fall: {
     text: '"Autumn carries more gold in its pocket than all the other seasons." -Jim Bishop',
-    iconName: "leaves"
+    iconName: "leaf"
   }
 };
 
